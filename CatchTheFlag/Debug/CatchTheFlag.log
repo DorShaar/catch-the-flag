@@ -1,0 +1,26 @@
+﻿Build started 27/03/2017 21:15:54.
+     1>Project "C:\Users\user\Documents\Visual Studio 2015\Projects\Semester D\Project\CatchTheFlag\CatchTheFlag\CatchTheFlag.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Diver.cpp Pilot.cpp Soldier.cpp Tool.cpp
+         Tool.cpp
+         Soldier.cpp
+         Pilot.cpp
+         Diver.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2015\Projects\Semester D\Project\CatchTheFlag\Debug\CatchTheFlag.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\user\Documents\Visual Studio 2015\Projects\Semester D\Project\CatchTheFlag\Debug\CatchTheFlag.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2015\Projects\Semester D\Project\CatchTheFlag\Debug\CatchTheFlag.lib" /MACHINE:X86 Debug\BaseSurface.obj
+         Debug\Diver.obj
+         Debug\GameManager.obj
+         Debug\Main.obj
+         Debug\Pilot.obj
+         Debug\Player.obj
+         Debug\Point.obj
+         Debug\ScreenHandler.obj
+         Debug\Soldier.obj
+         Debug\Tool.obj
+         CatchTheFlag.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Semester D\Project\CatchTheFlag\Debug\CatchTheFlag.exe
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2015\Projects\Semester D\Project\CatchTheFlag\CatchTheFlag\CatchTheFlag.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.65
